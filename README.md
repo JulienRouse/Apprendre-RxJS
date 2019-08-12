@@ -1,3 +1,7 @@
+---
+description: 'Des examples clairs, des explications et des ressources pour RxJS'
+---
+
 # Learn RxJS - Apprendre RxJS
 
 ## Getting Super Powers
